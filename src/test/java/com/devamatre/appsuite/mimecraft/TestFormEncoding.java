@@ -31,8 +31,7 @@
 package com.rslakra.testcases.mimecraft;
 
 /**
- * @author Rohtash Lakra (rohtash.lakra@devamatre.com)
-* @author Rohtash Lakra (rohtash.singh@gmail.com)
+ * @author Rohtash Lakra
  * @created 2018-03-07 07:25:47 PM
  * @version 1.0.0
  * @since 1.0.0
