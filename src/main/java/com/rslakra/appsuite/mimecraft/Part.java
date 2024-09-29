@@ -28,7 +28,7 @@
  * Devamatre reserves the right to modify the technical specifications and or 
  * features without any prior notice.
  *****************************************************************************/
-package com.devamatre.appsuite.mimecraft;
+package com.rslakra.appsuite.mimecraft;
 
 import java.io.File;
 import java.io.FileInputStream;
